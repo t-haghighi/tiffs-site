@@ -17,7 +17,7 @@
   <br/>
   <br/>
     <p>hmm you have found the secret treasure meme for not falling for my diversion</p>
-     <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">Learn more</a>
+     <a href="https://github.com/t-haghighi/tab1">About Me</a>
 
 </body>
 </html>
