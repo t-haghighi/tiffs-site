@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    Tiffany's site
+<h3>Tiffany's site</h3>
    
 </head>
 <body>
@@ -13,11 +13,10 @@
    <br/>
     <p>your still here... what are you doing go look at my tabs!</p>
   <br/>
-  <br/>
+  <a href="https://github.com/t-haghighi/tab1">About Me</a> <br/>
+  <a href="https://github.com/t-haghighi/Robotic-expierence">Robotics Expierence</a>
   <br/>
   <br/>
     <p>hmm you have found the secret treasure meme for not falling for my diversion</p>
-     <a href="https://github.com/t-haghighi/tab1">About Me</a>
-
 </body>
 </html>
