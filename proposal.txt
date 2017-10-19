@@ -1,0 +1,42 @@
+1.	Magic Mirror
+a.	Magic Mirror
+2.	Project Description
+a.	To make mornings easier by providing information such as weather and time.
+b.	To better mornings by bringing up a person’s mood by playing music.
+c.	To reduce the distraction of looking at your phone.
+3.	Goals
+a.	To project the date, time and weather information.
+i.	Elaborate 
+b.	To play a song from the internet through the computer.
+c.	To interact with the user.
+4.	Way to scale back the project
+a.	Not include the music aspect.
+b.	Limit the user interaction, be a display. 
+5.	Reach goal
+a.	Add more apps such/word as quote of the day, or calendar.
+b.	Function as an alarm clock
+i.	Turn on at a set time 
+ii.	Play a sound at the set time
+iii.	Have information displayed
+c.	Who’s the fairest? – on screen (Cinderella)
+6.	Risks
+a.	Time management 
+i.	Work on requirements 15 min a day.
+b.	Breaking parts.
+c.	Mirror isn’t what I expected.
+i.	You can’t see through it 
+ii.	Would need to return it 
+iii.	Look for a new one
+d.	Difficulty with python.
+e.	Not keeping track of assignments.
+7.	Conclusion
+a.	do this later
+
+Budgets:
+Materials:
+1.	Acrylic Mirror
+a.	https://www.amazon.com/Acrylic-Mirror-Sheet-Laser-Creations/dp/B01MXE417D 
+b.	10.49+shipping*tax
+c.	To create the stylistic and common mirror look
+d.	Timeline?
+2.	Cables- Dvi-D to hdmi 
