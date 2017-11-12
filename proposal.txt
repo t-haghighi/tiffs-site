@@ -6,9 +6,7 @@
   c.	To reduce the distraction of looking at your phone.
 3.	Goals
   a.	To project the date, time and weather information.
-    i.	Elaborate 
   b.	To play a song from the internet through the computer.
-  c.	To interact with the user.
 4.	Way to scale back the project
   a.	Not include the music aspect.
   b.	Limit the user interaction, be a display. 
@@ -18,26 +16,30 @@
     i.	Turn on at a set time 
     ii.	Play a sound at the set time
     iii.	Have information displayed
-  c.	Who’s the fairest? – on screen (Cinderella)
+  c.	To interact with the user.
+    i.	Who’s the fairest of them all? A user would ask this question and the mirror would be able to respond with the clip of from Cinderella.
 6.	Risks
   a.	Time management 
-    i.	Work on requirements 15 min a day.
+    i.	High likely hood, high consequence.
+    ii.	Work on proposal assignments 15 min a day to keep on track.
   b.	Breaking parts.
+    i.	Somewhat likely, high consequence.
+    ii.	Raises cost.
+    iii.	Sets back project time wise.
   c.	Mirror isn’t what I expected.
-    i.	You can’t see through it 
-    ii.	Would need to return it 
-    iii.	Look for a new one
+    i.	Somewhat likely, high consequence.
+    ii.	Raises cost.
+    iii.	Becomes a delay in the schedule.
+    iv.	Would need to return it.
+    v.	Look for a new one.
   d.	Difficulty with python.
-  e.	Not keeping track of assignments.
+    i.	Somewhat likely, slight consequence
+    ii.	Delay the schedule
+    iii.	Create unnecessary frustration.
+  e.	Price inflation
+    i.	Very likely, somewhat consequence.
+    ii.	Takes away from my budget.
+    iii.	The price of the 12x24 acrylic glass I want almost doubled in price going from $10.49 in the middle- to-late October to $19.25  on 11/11/17.
 7.	Conclusion
-  a.	do this later
-
-Budgets:
-Materials:
-1.	Acrylic Mirror
-  a.	https://www.amazon.com/Acrylic-Mirror-Sheet-Laser-Creations/dp/B01MXE417D 
-  b.	10.49+shipping*tax
-  c.	To create the stylistic and common mirror look
-  d.	Timeline?
-2.	Cables- Dvi-D to hdmi 
-  a.
+  a.	I am most excited about seeing the project come together piece by piece and learning the process of making my own project. 
+  b.	This makes me excited for the rest of the year because I get to learn new things, which are not a part of a regular student’s curriculum. I also get to practice what I learned and I am able to get guidance for better ways to go about my project.	
